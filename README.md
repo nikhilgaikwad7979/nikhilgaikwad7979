@@ -16,7 +16,7 @@ Javascript, HTML, CSS , Boostrap , php , C, C++ , Java , Android ..
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 
 <p align="left">
 </p>
