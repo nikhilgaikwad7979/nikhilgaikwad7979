@@ -1,6 +1,7 @@
-# Hi, I’m Nikhil! 👋  
+# Hi, I’m Nikhil! 👋 
 
 ![Logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)  
+ 
 
 ## 🚀 About Me  
 I'm a passionate **Full Stack Developer** with expertise in building robust and scalable applications. I love exploring new technologies, solving complex problems, and creating impactful digital experiences.
@@ -50,3 +51,10 @@ I'm a passionate **Full Stack Developer** with expertise in building robust and 
 
 ---
 
+## 📈 Contributions in the Last Year  
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilgaikwad7979&show_icons=true&theme=radical" alt="Nikhil's GitHub Stats" />
+</p>  
+
+---
