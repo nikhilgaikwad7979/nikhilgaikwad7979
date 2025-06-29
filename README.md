@@ -10,6 +10,8 @@ I'm a passionate **Full Stack Developer** with expertise in building robust and 
 
 ## 🔗 Links  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nick7979.netlify.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-gaikwad-4769912a5/)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilgaikwad7979)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nikhilgaikwad791)
+ 
 
 ---
 
